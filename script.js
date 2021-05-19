@@ -115,12 +115,13 @@ form.addEventListener("submit", handleFormSubmit)
 
 /* Btn Delete */
 
-const btnDelete = document.querySelectorAll('.delete-btn');
-const btnEditarLista = document.querySelector('.editar-lista');
-const valor = document.querySelectorAll('.valor');
 
 const funcoesBtnDelete = () => {
-
+  
+  const btnDelete = document.querySelectorAll('.delete-btn');
+  const btnEditarLista = document.querySelector('.editar-lista');
+  const valor = document.querySelectorAll('.valor');
+  
   btnEditarLista.addEventListener('click', editarLista);
 
   function editarLista(){
