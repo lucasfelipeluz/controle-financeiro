@@ -3,7 +3,7 @@
 <p align="center">Projeto criado com finalidade de me desafiar, e assim praticar.</p>
 <h6  align="center"><img src="https://user-images.githubusercontent.com/65639478/118739588-2f7b3500-b820-11eb-996b-98cad4ba8122.png" width="50%" height="50%"></img></h6>
 
-<h4 align="center"><a href="https://lucasfelipeluz.github.io/pages/controle-financeiro">Clique para utilizar essa ferramenta</a></h4>
+<h4 align="center"><a target="_blank" href="https://lucasfelipeluz.github.io/pages/controle-financeiro">Clique para utilizar essa ferramenta</a></h4>
 <hr>
 <h2  align="center">🎁 Tecnologias utilizadas 🎁</h2>
 <p align="center"> 
