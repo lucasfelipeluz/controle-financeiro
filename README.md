@@ -1,7 +1,7 @@
 <h1 align="center">💲 Controle de Despesas 💲</h1>
 
 <p align="center">Projeto criado com finalidade de me desafiar, e assim praticar.</p>
-<h6  align="center"><img src="https://user-images.githubusercontent.com/65639478/118739588-2f7b3500-b820-11eb-996b-98cad4ba8122.png" width="50%" height="50%"></img></h6>
+<h6  align="center"><img src="https://user-images.githubusercontent.com/65639478/125203868-dbedfc00-e250-11eb-840c-d46a1527c617.png" width="50%" height="50%"></img></h6>
 
 <h4 align="center"><a target="_blank" href="https://lucasfelipeluz.github.io/project/controle-financeiro">Clique para utilizar essa ferramenta</a></h4>
 <hr>
